@@ -52,6 +52,9 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
+#Megascans
+Megascans/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
